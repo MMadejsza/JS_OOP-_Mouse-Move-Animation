@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.baloon-animation {
+	height: 100vh;
+	position: relative;
+	background-color: lightblue;
+}
+.flying-cloud {
+	position: absolute;
+	width: 20%;
+}
+.flying-baloon {
+	position: absolute;
+	width: 15%;
+	top: 30%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+}
+
+.flying-cloud:nth-child(1) {
+	top: 24%;
+	left: 30%;
+}
+.flying-cloud:nth-child(2) {
+	top: 15%;
+	left: 20%;
+}
+.flying-cloud:nth-child(3) {
+	top: 33%;
+	left: 25%;
+	z-index: 1;
+}
+.flying-cloud:nth-child(4) {
+	top: 60%;
+	left: 30%;
+}
+.flying-cloud:nth-child(5) {
+	top: 24%;
+	left: 30%;
+	z-index: 1;
+}
+.flying-cloud:nth-child(6) {
+	top: 40%;
+	left: 50%;
+}
