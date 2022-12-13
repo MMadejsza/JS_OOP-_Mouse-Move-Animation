@@ -7,21 +7,10 @@ Practicing movements of DOM Elements on user cursor move. Getting values from cu
 OOP approach, custom attributes, DOM ready script, DOM manipulating, .this binding with arrow function
 
 ### CSS
-Selectors Level 4 - pseudo classes
+Selectors Level 4 - pseudo-classes
 
 ## Program flow:
 Launch the website link above and just move the cursor as you wish.
 
 Enjoy,
 MMadejsza
-
-
-
-
-
-
-
-
-
-
-
